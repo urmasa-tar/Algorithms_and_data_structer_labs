@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/urmasa/Documents/MADI/Algorithms/Algorithms_and_data_structer_labs/ToDoList/ToDoList.csproj": {}
+  },
+  "projects": {
+    "/home/urmasa/Documents/MADI/Algorithms/Algorithms_and_data_structer_labs/ToDoList/ToDoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/urmasa/Documents/MADI/Algorithms/Algorithms_and_data_structer_labs/ToDoList/ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "/home/urmasa/Documents/MADI/Algorithms/Algorithms_and_data_structer_labs/ToDoList/ToDoList.csproj",
+        "packagesPath": "/home/urmasa/.nuget/packages/",
+        "outputPath": "/home/urmasa/Documents/MADI/Algorithms/Algorithms_and_data_structer_labs/ToDoList/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/urmasa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/239/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

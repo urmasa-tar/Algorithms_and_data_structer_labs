@@ -13,3 +13,6 @@
 
 <p><code>CRTL + p</code></p>
 <img src = "">
+
+<p>Avalonia for aplication in vscode</p>
+<p><code>dotnet new avalonia.mvvm -o ToDoList -n ToDoList</code><p>

@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Trial_for_uno",
+  "display": "standalone",
+  "name": "Trial_for_uno",
+  "short_name": "Trial_for_uno",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

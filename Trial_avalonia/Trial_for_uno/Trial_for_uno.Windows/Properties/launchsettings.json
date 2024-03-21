@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"Trial_for_uno.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"Trial_for_uno.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

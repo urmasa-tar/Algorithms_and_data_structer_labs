@@ -15,4 +15,5 @@
 <img src = "">
 
 <p>Avalonia for aplication in vscode</p>
+<h5>Installation -> <code>dotnet new install Avalonia.Templates</code></h5>
 <p><code>dotnet new avalonia.mvvm -o ToDoList -n ToDoList</code><p>

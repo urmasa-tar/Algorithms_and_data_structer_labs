@@ -10,10 +10,11 @@
         xmlns:viewModels="clr-namespace:ACalc.ViewModels"
         Icon="/Assets/avalonia-logo.ico"
         Title="ACalc"
-        MinHeight="250"
-        MinWidth="250"
+        MinHeight="220"
+        MinWidth="220"
         Height="250"
-        Width="270"
+        Width="200"
+        CanResize= "False"
         x:DataType="viewModels:MainWindowViewModel">
 
     <Design.DataContext>

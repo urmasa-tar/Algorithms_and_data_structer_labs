@@ -1,0 +1,52 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Calculator.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Calculator.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Calculator"
+        
+        Height="250"
+        Width="360"
+        CanResize="False"
+        
+        >
+    
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+    
+    <Window.Styles>
+        <Style Selector="Button">
+            <Setter Property="Margin" Value="5"></Setter>
+        </Style>
+    </Window.Styles>
+
+
+    <Grid RowDefinitions="Auto, Auto, *">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Row="0" Grid.Column="0">
+            <MenuItem Header="File">
+                <MenuItem Header="Save" Command="{Binding Save}"/>
+                <MenuItem Header="Back" Command="{Binding Back}"/>
+                <MenuItem Header="Exit" Command="{Binding Exit}"/>
+            </MenuItem>
+        </Menu>
+        
+        <TextBlock Grid.Row="0" Grid.Column="3">1 + 2 = </TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="3" Text="{Binding ShownValue}" TextAlignment="Right" FontSize="30" Margin="5" />
+        
+    </Grid>
+    
+    
+</Window>

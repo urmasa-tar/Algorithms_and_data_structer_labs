@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8WCWJfiVCA+lSkV+0nIsUbCKWzRQb2r+HZ4gNbxS2zXW3pvHxyMstSy3mCL5MSHgEySIt2Pi9txy+OHLiPkaA==",
+  "success": true,
+  "projectFilePath": "/home/urmasa/Documents/Madi/Algorithm/Algorithms_and_data_structer_labs/Binary_tree_onExample/binary_example/binary_example.csproj",
+  "expectedPackageFiles": [
+    "/home/urmasa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

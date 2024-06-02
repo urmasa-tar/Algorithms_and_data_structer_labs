@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoltsevNS_Calculator", "GoltsevNS_Calculator.csproj", "{B977BA0F-AF54-431A-8629-2D6941D0687D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B977BA0F-AF54-431A-8629-2D6941D0687D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B977BA0F-AF54-431A-8629-2D6941D0687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B977BA0F-AF54-431A-8629-2D6941D0687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B977BA0F-AF54-431A-8629-2D6941D0687D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CDC0E1-9D07-49DB-9F5F-B28A7D011AA5}
+	EndGlobalSection
+EndGlobal

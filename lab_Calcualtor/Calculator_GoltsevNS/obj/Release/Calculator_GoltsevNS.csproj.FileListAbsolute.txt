@@ -1,0 +1,10 @@
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\bin\Release\Calculator_GoltsevNS.exe.config
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\bin\Release\Calculator_GoltsevNS.exe
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\bin\Release\Calculator_GoltsevNS.pdb
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.csproj.AssemblyReference.cache
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.Form1.resources
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.Properties.Resources.resources
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.csproj.GenerateResource.cache
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.csproj.CoreCompileInputs.cache
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.exe
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_Calcualtor\Calculator_GoltsevNS\obj\Release\Calculator_GoltsevNS.pdb

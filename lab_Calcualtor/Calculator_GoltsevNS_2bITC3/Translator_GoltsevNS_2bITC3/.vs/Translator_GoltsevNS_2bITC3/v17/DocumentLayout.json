@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_calcualtor\\calculator_goltsevns_2bitc3\\translator_goltsevns_2bitc3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_calcualtor\\calculator_goltsevns_2bitc3\\translator_goltsevns_2bitc3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_calcualtor\\calculator_goltsevns_2bitc3\\translator_goltsevns_2bitc3\\csvtablelng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E648F58-10AC-4DBE-90F5-30048FA79A69}|Translator_GoltsevNS_2bITC3.csproj|solutionrelative:csvtablelng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "csvTableLNG.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\csvTableLNG.cs",
+              "RelativeDocumentMoniker": "csvTableLNG.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\csvTableLNG.cs",
+              "RelativeToolTip": "csvTableLNG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:13:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:31:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_Calcualtor\\Calculator_GoltsevNS_2bITC3\\Translator_GoltsevNS_2bITC3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:41:44.24Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

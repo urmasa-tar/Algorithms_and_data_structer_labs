@@ -42,11 +42,11 @@ namespace Calculator_GoltsevNS
 
             if(!string.IsNullOrEmpty(lblResult.Text) && !string.IsNullOrEmpty(op) && !string.IsNullOrEmpty(lblDisplay.Text))
             {
-                firstNum = Convert.ToDouble(lblDisplay.Text);
-                secNum = Convert.ToDouble(lblResult.Text);
+                // firstNum = Convert.ToDouble(lblDisplay.Text);
+                // secNum = Convert.ToDouble(lblResult.Text);
                 answer = 0;
 
-                answer = operHandl.CalcRes(op, firstNum, secNum);
+                answer = operHandl.CalcRes(op, lblDisplay.Text, lblResult.Text);
                 string local_stat = operHandl.stat_of_div;
 
                 if(local_stat == "Cannot div by zero")
@@ -106,9 +106,9 @@ namespace Calculator_GoltsevNS
                 op = b.Text;
                 if (!string.IsNullOrEmpty(lblResult.Text))
                 {
-                    secNum = Convert.ToDouble(lblResult.Text);
+                    // secNum = Convert.ToDouble(lblResult.Text);
 
-                    answer = operHandl.CalcRes(op, secNum);
+                    answer = operHandl.CalcRes(op, lblResult.Text);
                     lblResult.Text = Convert.ToString(answer);
                 }
             }
@@ -123,10 +123,12 @@ namespace Calculator_GoltsevNS
 
             if(b.Text == "Deg")
             {
+                operHandl.isDeg = true;
                 b.Text = "Rad";
             }
             else
             {
+                operHandl.isDeg = false;
                 b.Text = "Deg";
             }
         }
@@ -137,6 +139,36 @@ namespace Calculator_GoltsevNS
             lblDisplay.Text = lblResult.Text;
             lblResult.Text = "";
             op = b.Text;
+        }
+
+        private void Special_Btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void specialNumClick(object sender, EventArgs e)
+        {
+            try
+            {
+                Button b = (Button)sender;
+                lblResult.Text = b.Text;
+            }
+            catch { }
+        }
+
+        private void specialOpRGT(object sender, EventArgs e)
+        {
+            try
+            {
+                Button b = (Button)sender;
+                op = b.Text;
+                if (!string.IsNullOrEmpty(lblResult.Text))
+                {
+                    answer = operHandl.CalcRes(op, lblResult.Text);
+                    lblResult.Text = Convert.ToString(answer);
+                }
+            }
+            catch { }
         }
 
         private void NumberClick(object sender, EventArgs e)

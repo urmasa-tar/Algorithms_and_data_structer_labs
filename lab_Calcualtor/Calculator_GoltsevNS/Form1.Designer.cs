@@ -92,6 +92,7 @@
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(344, 50);
             this.lblResult.TabIndex = 2;
+            this.lblResult.Click += new System.EventHandler(this.specialNumClick);
             // 
             // btnCE
             // 
@@ -269,7 +270,7 @@
             this.btnDt.Name = "btnDt";
             this.btnDt.Size = new System.Drawing.Size(79, 63);
             this.btnDt.TabIndex = 19;
-            this.btnDt.Text = ".";
+            this.btnDt.Text = ",";
             this.btnDt.UseVisualStyleBackColor = true;
             this.btnDt.Click += new System.EventHandler(this.NumberClick);
             // 
@@ -351,6 +352,7 @@
             this.btnPiNum.TabIndex = 29;
             this.btnPiNum.Text = "Pi";
             this.btnPiNum.UseVisualStyleBackColor = true;
+            this.btnPiNum.Click += new System.EventHandler(this.specialNumClick);
             // 
             // btnMod
             // 
@@ -378,6 +380,7 @@
             this.btnExp.TabIndex = 32;
             this.btnExp.Text = "Exp";
             this.btnExp.UseVisualStyleBackColor = true;
+            this.btnExp.Click += new System.EventHandler(this.specialNumClick);
             // 
             // btnFact
             // 
@@ -387,6 +390,7 @@
             this.btnFact.TabIndex = 37;
             this.btnFact.Text = "n!";
             this.btnFact.UseVisualStyleBackColor = true;
+            this.btnFact.Click += new System.EventHandler(this.specialOpRGT);
             // 
             // button5
             // 
@@ -396,6 +400,7 @@
             this.button5.TabIndex = 36;
             this.button5.Text = "ln(x)";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.specialOpRGT);
             // 
             // btnSQRT
             // 
@@ -405,6 +410,7 @@
             this.btnSQRT.TabIndex = 35;
             this.btnSQRT.Text = "sqrt(x)";
             this.btnSQRT.UseVisualStyleBackColor = true;
+            this.btnSQRT.Click += new System.EventHandler(this.specialOpRGT);
             // 
             // btnMltT
             // 
@@ -412,8 +418,9 @@
             this.btnMltT.Name = "btnMltT";
             this.btnMltT.Size = new System.Drawing.Size(79, 63);
             this.btnMltT.TabIndex = 34;
-            this.btnMltT.Text = "10 x";
+            this.btnMltT.Text = "10x";
             this.btnMltT.UseVisualStyleBackColor = true;
+            this.btnMltT.Click += new System.EventHandler(this.specialOpRGT);
             // 
             // btnSQ
             // 
@@ -423,6 +430,7 @@
             this.btnSQ.TabIndex = 33;
             this.btnSQ.Text = "x^2";
             this.btnSQ.UseVisualStyleBackColor = true;
+            this.btnSQ.Click += new System.EventHandler(this.specialOpRGT);
             // 
             // Form1
             // 

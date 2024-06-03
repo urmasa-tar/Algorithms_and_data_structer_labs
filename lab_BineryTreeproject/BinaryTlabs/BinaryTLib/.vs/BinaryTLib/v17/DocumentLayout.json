@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_binerytreeproject\\binarytlabs\\binarytlib\\binaryt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|solutionrelative:binaryt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_binerytreeproject\\binarytlabs\\binarytlib\\searchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|solutionrelative:searchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_binerytreeproject\\binarytlabs\\binarytlib\\sortwithbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|solutionrelative:sortwithbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|c:\\users\\urmasa\\documents\\madi\\algorithm\\algorithms_and_data_structer_labs\\lab_binerytreeproject\\binarytlabs\\binarytlib\\drawblbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F00384D-69B1-49C5-AB01-D0BC7B285024}|BinaryTLib.csproj|solutionrelative:drawblbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\SearchTree.cs",
+              "RelativeDocumentMoniker": "SearchTree.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\SearchTree.cs",
+              "RelativeToolTip": "SearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:22:05.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sortWithBT.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\sortWithBT.cs",
+              "RelativeDocumentMoniker": "sortWithBT.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\sortWithBT.cs",
+              "RelativeToolTip": "sortWithBT.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:57:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawblBT.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\DrawblBT.cs",
+              "RelativeDocumentMoniker": "DrawblBT.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\DrawblBT.cs",
+              "RelativeToolTip": "DrawblBT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:55:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryT.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\BinaryT.cs",
+              "RelativeDocumentMoniker": "BinaryT.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\Madi\\Algorithm\\Algorithms_and_data_structer_labs\\lab_BineryTreeproject\\BinaryTlabs\\BinaryTLib\\BinaryT.cs",
+              "RelativeToolTip": "BinaryT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:36:48.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

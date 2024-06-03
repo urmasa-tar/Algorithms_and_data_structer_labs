@@ -1,0 +1,12 @@
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\bin\Debug\net8.0\BinaryTLib.deps.json
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\bin\Debug\net8.0\BinaryTLib.dll
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\bin\Debug\net8.0\BinaryTLib.pdb
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.AssemblyInfoInputs.cache
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.AssemblyInfo.cs
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.csproj.CoreCompileInputs.cache
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.sourcelink.json
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.dll
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\refint\BinaryTLib.dll
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\BinaryTLib.pdb
+C:\Users\urmasa\Documents\Madi\Algorithm\Algorithms_and_data_structer_labs\lab_BineryTreeproject\BinaryTlabs\BinaryTLib\obj\Debug\net8.0\ref\BinaryTLib.dll

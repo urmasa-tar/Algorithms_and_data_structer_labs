@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinaryTLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eface4240c34976aa10ca8dcfe517cd212b1a95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cee027079dfe9957bd9b8c7ad2020c90291733c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinaryTLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinaryTLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
